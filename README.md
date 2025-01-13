@@ -4,9 +4,9 @@ Learning project following the (Ray Tracing in One Weekend)[https://raytracing.g
 Learn the basics of Computer graphics programming
 # Build
 * Build using CMake
-* Run executable to produce a simple "Hello world" image
+* Run executable to produce an antialiased image of a circle with surface normal heatmap and ground
 
-![Sample Image](./img/hello_world.jpg)
+![Sample Image](./img/antialiasing.png)
 
 Pipe the created executable into an image with the *.ppm* extension
 * Example on Windows:

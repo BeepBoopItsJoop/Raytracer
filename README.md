@@ -17,5 +17,5 @@ See progression in /img folder
 
 ![Image](./img/02_antialiasing.png)
 ![Image](./img/04_diffuse_lambertian.png)
-![Image](./img/06_gamma_50%.png)
+![Image](./img/06_gamma_50.png)
 ![Image](./img/07_materials.png)

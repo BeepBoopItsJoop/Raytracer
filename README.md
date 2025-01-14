@@ -13,9 +13,9 @@ Pipe the created executable into an image with the *.ppm* extension
 `./build/Raytracing.exe > image.ppm`
 
 # Images
-See progression in /img folder
-![Image](./img/01_surface_normals.png)
+See progression in /img folder  
+
 ![Image](./img/02_antialiasing.png)
 ![Image](./img/04_diffuse_lambertian.png)
-![Image](./img/06_gamma_50%25.png)
+![Image](./img/06_gamma_50%.png)
 ![Image](./img/07_materials.png)
